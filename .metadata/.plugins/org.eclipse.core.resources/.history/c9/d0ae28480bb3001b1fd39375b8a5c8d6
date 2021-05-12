@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOPING!</title>
+    <link rel="stylesheet" href="css/css.css">
+</head>
+<body>
+<!--header-->
+  <div id="site__header" style="font-family: 'Poppins', sans-serif;">
+    <nav class="navbar" style="text-decoration: none; list-style-type: none; color:black">
+      <div class="navbar__logo" style="text-decoration: none; list-style-type: none;">
+        <a href="#" id="header__a"><b>HOPING</b><b style="color: #FFBF00">.</b></a>
+      </div>
+
+      <ul class="navbar__menu" id="navbar__menu__a">
+        <li><a href="#"><span>MAIN</span></a></li>
+        <li><a href="#"><span>MAIN</span></a></li>
+        <li><a href="#"><span>MAIN</span></a></li>
+        <li><a href="#"><span>MAIN</span></a></li>
+        <li><a href="#"><span>MAIN</span></a></li>
+        <li class="login_out"><a href="#"><span style="font-size: small;">Login/Bye</span></a></li>
+      </ul>
+    </nav>
+  </div>
+    <div class="board_wrap">
+        <div class="board_title">
+            <strong>궁금해요!</strong>
+            <p>궁금사항을 서로 공유해요</p>
+        </div>
+        <div class="board_write_wrap">
+            <div class="board_write">
+                <div class="title">
+                    <dl>
+                        <dt>제목</dt>
+                        <dd><input type="text" placeholder="제목 입력" value="글 제목이 들어갑니다"></dd>
+                    </dl>
+                </div>
+                <div class="info">
+                    <dl>
+                        <dt>글쓴이</dt>
+                        <dd><input type="text" placeholder="글쓴이 입력" value="김이름"></dd>
+                    </dl>
+                    <dl>
+                        <dt>비밀번호</dt>
+                        <dd><input type="password" placeholder="비밀번호 입력" value="1234"></dd>
+                    </dl>
+                </div>
+                <div class="cont">
+                    <textarea placeholder="내용 입력">
+글 내용이 들어갑니다.
+글 내용이 들어갑니다.
+글 내용이 들어갑니다.
+글 내용이 들어갑니다.
+글 내용이 들어갑니다.
+글 내용이 들어갑니다.
+글 내용이 들어갑니다.
+글 내용이 들어갑니다.</textarea>
+                </div>
+            </div>
+            <div class="bt_wrap">
+                <a href="view.html" class="on">수정</a>
+                <a href="view.html">취소</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

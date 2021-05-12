@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="2">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:///C\:/Users/YIM/Desktop/Hoping/HopingProject/WebContent/IMAGE/register.jpg|*|file\:/C\:/Users/YIM/Desktop/Hoping/HopingProject/WebContent/IMAGE/register.jpg|*|https\://accounts.google.com/o/oauth2/v2/auth/identifier?client_id\=508198334196-bgmagrg0a2rub674g0shidj8fnd50dji.apps.googleusercontent.com&state\=%7B%22ctkn%22%3A%22hei92ar2f1vu%22%7D&redirect_uri\=https%3A%2F%2Fdisqus.com%2F_ax%2Fgoogle%2Fcomplete%2F&response_type\=code&hl\=en_US&scope\=openid%20email%20profile&flowName\=GeneralOAuthFlow|*|http\://localhost\:12000/Hoping/Veiw.html|*|
